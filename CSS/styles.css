@@ -1,0 +1,49 @@
+body {
+  background-color: #eaf6f6;
+  margin: 10px;
+}
+
+h1 {
+  color: #668fbf;
+}
+
+h3 {
+  color: #668fbf;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+a {
+  color: darkred;
+  text-decoration: underline;
+}
+
+ol {
+  color: #000;
+  list-style: lower-roman;
+}
+
+.edTable {
+  background-color: rgb(107, 170, 196);
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.quoteList {
+  color: #668fbf;
+}
+
+.contactForm {
+  color: #668fbf;
+}
+
+.formButton {
+  background-color: lightgoldenrodyellow;
+  color: #668fbf;
+}
